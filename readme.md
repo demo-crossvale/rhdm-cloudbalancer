@@ -1,16 +1,21 @@
 ## Overview
 
-This repository contains rules to be used from within a Red Hat Process Automation Manager project. The rules update the Target Capacity field for the respective Fleet object input.
+This repository contains rules to be used from within a Red Hat Decision Manager project. The rules update Target Capacity field for respective Fleet object input.
 
 ## Prerequisites
 
-An instance of [Red Hat Process Automation Manager 7.0](https://access.redhat.com/documentation/en-us/red_hat_process_automation_manager/7.0/) with both Business Central and Process Server deployed.
+An instance of [Red Hat Decision Manager 7.0](https://access.redhat.com/documentation/en-us/red_hat_decision_manager/7.0/) with both Decision Central and KIE Server deployed.
 
 ## Deploying
 
-Import the project into Business Central using the 'Add Project' feature.
+Import the project into Decision Central using the 'Import Project' feature. Provide following GIT repository URL: [Crossvale GIT repo for OCB](git@github.com:demo-crossvale/rhdm-cloudbalancer.git)
 
-Build and Deploy the project. A container should start in the Process Server from which the rules can be accessed.
+Select the project - *dm-ocb* to complete the import.
+
+Build and Deploy the project. A container should start in the Execution Server from which the rules can be accessed.
+
+
+## TODO:
 
 ## Using the rules
 
@@ -70,5 +75,3 @@ curl -X POST -H 'X-KIE-ContentType: JSON' -H 'Content-type: application/json' -u
 * Build and Deploy the project
 * The new rules should now be available within the newly deployed container
 * **IMPORTANT:** The new container id (used in the REST call from above) will contain the incremented project version number. If you wish to maintain the same container name, you must set it manually from the Deploy -> Execution Servers menu
-
-
