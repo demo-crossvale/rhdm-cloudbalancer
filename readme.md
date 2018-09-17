@@ -8,9 +8,9 @@ An instance of [Red Hat Decision Manager 7.0](https://access.redhat.com/document
 
 ## Deploying
 
-Import the project into Decision Central using the 'Import Project' feature. Provide following GIT repository URL: [Crossvale GIT repo for OCB](git@github.com:demo-crossvale/rhdm-cloudbalancer.git)
+Import the project into Decision Central using the 'Import Project' feature. Provide following GIT repository URL: *git@github.com:demo-crossvale/rhdm-cloudbalancer.git*
 
-Select the project - *dm-ocb* to complete the import.
+Select the project *dm-ocb* to complete the import.
 
 Build and Deploy the project. A container should start in the Execution Server from which the rules can be accessed.
 
