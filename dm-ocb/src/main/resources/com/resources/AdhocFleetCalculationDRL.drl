@@ -10,7 +10,7 @@ rule "Row 1 AdHocFleetCalculation"
 	when
 		fleetObject : Fleet( id == "sfr-e297b726-fa8b-490e-acdd-2b6c2420549a" , filter == false )
 	then
-	    modify(fleetObject){setTargetCapacity(12 + fleetObject.getTargetCapacity())};
+	    modify(fleetObject){setTargetCapacity(1 + fleetObject.getTargetCapacity())};
 		System.out.println("Fired Ad Hoc");
 end
 
@@ -22,7 +22,7 @@ rule "Row 2 AdHocFleetCalculation"
 	when
 		fleetObject : Fleet( id == "sfr-1ff95794-9d1e-4c86-8a05-d4e1de6395cb" , filter == false )
 	then
-		modify(fleetObject){setTargetCapacity(12 + fleetObject.getTargetCapacity())};
+		modify(fleetObject){setTargetCapacity(2 + fleetObject.getTargetCapacity())};
 		System.out.println("Fired Ad Hoc");
 end
 
