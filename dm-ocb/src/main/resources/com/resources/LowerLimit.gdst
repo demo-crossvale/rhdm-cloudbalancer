@@ -94,7 +94,7 @@
       <boundName>f</boundName>
       <factField>targetCapacity</factField>
       <type>Integer</type>
-      <update>false</update>
+      <update>true</update>
     </set-field-col52>
     <org.drools.workbench.models.guided.dtable.shared.model.BRLActionColumn>
       <hideColumn>false</hideColumn>

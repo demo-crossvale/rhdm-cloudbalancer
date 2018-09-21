@@ -109,7 +109,7 @@
       <boundName>fObj</boundName>
       <factField>targetCapacity</factField>
       <type>Integer</type>
-      <update>false</update>
+      <update>true</update>
     </set-field-col52>
     <org.drools.workbench.models.guided.dtable.shared.model.BRLActionColumn>
       <hideColumn>false</hideColumn>
@@ -188,7 +188,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-e297b726-fa8b-490e-acdd-2b6c2420549a</valueString>
+        <valueString>sfr-1ff95794-9d1e-4c86-8a05-d4e1de6395cb</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -211,7 +211,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">3</valueNumeric>
+        <valueNumeric class="int">2</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -242,7 +242,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-e297b726-fa8b-490e-acdd-2b6c2420549a</valueString>
+        <valueString>sfr-1ff95794-9d1e-4c86-8a05-d4e1de6395cb</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -296,7 +296,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-e297b726-fa8b-490e-acdd-2b6c2420549a</valueString>
+        <valueString>sfr-1ff95794-9d1e-4c86-8a05-d4e1de6395cb</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -350,7 +350,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-e297b726-fa8b-490e-acdd-2b6c2420549a</valueString>
+        <valueString>sfr-1ff95794-9d1e-4c86-8a05-d4e1de6395cb</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -373,7 +373,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">3</valueNumeric>
+        <valueNumeric class="int">2</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -404,7 +404,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-1ff95794-9d1e-4c86-8a05-d4e1de6395cb</valueString>
+        <valueString>sfr-47bc6811-02e5-4270-84a3-56757b91e5ea</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -458,7 +458,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-1ff95794-9d1e-4c86-8a05-d4e1de6395cb</valueString>
+        <valueString>sfr-47bc6811-02e5-4270-84a3-56757b91e5ea</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -512,7 +512,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-5f3d1af5-fc2c-41b0-95e2-3b895e8adc72</valueString>
+        <valueString>sfr-0b0a83ae-abb5-4457-9f4f-2a67e55ff278</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -566,7 +566,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-5f3d1af5-fc2c-41b0-95e2-3b895e8adc72</valueString>
+        <valueString>sfr-0b0a83ae-abb5-4457-9f4f-2a67e55ff278</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -620,7 +620,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-4aeccf6d-3074-45d8-b7ae-6cb4bdeda4f7</valueString>
+        <valueString>sfr-04fe36de-437b-4642-b712-842278933eef</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -674,7 +674,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-4aeccf6d-3074-45d8-b7ae-6cb4bdeda4f7</valueString>
+        <valueString>sfr-04fe36de-437b-4642-b712-842278933eef</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -728,7 +728,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-934ec6cc-2731-4802-b208-f04a6c708a99</valueString>
+        <valueString>sfr-8c7a86c4-dae6-4e4f-bb31-fca2eb3c9982</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -782,7 +782,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-934ec6cc-2731-4802-b208-f04a6c708a99</valueString>
+        <valueString>sfr-8c7a86c4-dae6-4e4f-bb31-fca2eb3c9982</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -836,7 +836,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-6058b2d4-6658-4d54-abe0-0b250253c171</valueString>
+        <valueString>sfr-4aeccf6d-3074-45d8-b7ae-6cb4bdeda4f7</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -847,7 +847,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">1200</valueNumeric>
+        <valueNumeric class="int">700</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -890,12 +890,66 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>sfr-6058b2d4-6658-4d54-abe0-0b250253c171</valueString>
+        <valueString>sfr-4aeccf6d-3074-45d8-b7ae-6cb4bdeda4f7</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">1200</valueNumeric>
+        <valueNumeric class="int">700</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_INTEGER</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric class="int">1700</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_INTEGER</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueBoolean>false</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric class="int">4</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_INTEGER</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueBoolean>true</valueBoolean>
+        <valueString></valueString>
+        <dataType>BOOLEAN</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+    </list>
+    <list>
+      <value>
+        <valueNumeric class="int">15</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_INTEGER</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString></valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric class="int">9</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_INTEGER</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueString>sfr-4aeccf6d-3074-45d8-b7ae-6cb4bdeda4f7</valueString>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </value>
+      <value>
+        <valueNumeric class="int">1700</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
@@ -913,7 +967,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">2</valueNumeric>
+        <valueNumeric class="int">1</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
